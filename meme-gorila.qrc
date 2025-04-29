@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/build">
+        <file>build/meme gorila.jpg</file>
+    </qresource>
+</RCC>

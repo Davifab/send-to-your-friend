@@ -1,0 +1,14 @@
+/build/
+/*.user
+*.autosave
+*.log
+*.o
+*.exe
+*.dll
+*.tmp
+*.pro.user
+*.qrc.depends
+*.stackdump
+*.sdf
+*.VC.db
+*.ipch
